@@ -39,7 +39,7 @@ const Navbar = () => {
                    <li><Link to="/Flow" className='hover:text-[#BEF264]'>Solution</Link></li>
                    <li><Link to="/Blog" className='hover:text-[#BEF264]'>Blog</Link></li>
                 </ul>
-                <button className='font-bold p-2 mt-4 rounded-[15px] text-white hover:text-[#BEF264] border-solid border-2 border-white w-full'>
+                <button className='font-bold p-2 mt-4 rounded-[15px] text-white hover:text-[black]   hover:bg-[white] border-solid border-2 border-white w-full'>
                     Get In Touch
                 </button>
            </div>
